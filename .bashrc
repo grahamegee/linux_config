@@ -14,4 +14,4 @@ GIT_PS1_SHOWUPSTREAM="verbose"
 GIT_PS1_SHOWCOLORHINTS="true"
 
 alias ls='ls --color=auto'
-PS1='[\u@\h \W$(__git_ps1 "(%s)")]\$ '
+PS1='\e[36m\t \u \e[33m\W$(__git_ps1 "(%s)")|\e[0m '
