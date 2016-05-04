@@ -5,3 +5,29 @@ URxvt.url-launcher: chromium
 URxvt.matcher.button: 1
 URxvt.scrollstyle: plain
 URxvt.saveLines: 4095
+!DarkGrey / Black
+URxvt.color0: #3B444B
+URxvt.color8: #D3D3D3
+!Red
+URxvt.color1: #C23B22
+URxvt.color9: #FF6961
+!Green
+URxvt.color2: #03C03C
+URxvt.color10: #77DD77
+!Yellow
+URxvt.color3: #FCE883
+URxvt.color11: #FFFFE0
+!Blue
+URxvt.color4: #007BBB
+URxvt.color12: #89Cff0
+!Magenta
+URxvt.color5: #966FD6
+URxvt.color13: #B39EB5
+!Cyan
+URxvt.color6: #008B8B
+URxvt.color14: #EOFFFF
+!LightGrey / White
+URxvt.color7: #EAE0C8
+URxvt.color15: #F8F8FF
+
+
